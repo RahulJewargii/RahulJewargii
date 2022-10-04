@@ -1,7 +1,8 @@
-### Hi there👋 I am Rahul Jewargi
+<h1 align="center">Hi👋, I'm Rahul Jewargi</h1>
+<h3 align="center">A Software Engineer Student</h3>
+<img align="right" alt="coding" width="400" src="https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/01/21182224/software-engineering.jpg"
 
-I'm a student at computer engineering curently at 3rd year diploma, in government polytechnic mumbai. 
-
+     
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
