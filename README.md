@@ -1,6 +1,6 @@
 ### Hi there👋 I am Rahul Jewargi
 
-                                        A Software Engineer 
+I'm a student at computer engineering curently at 3rd year diploma, in government polytechnic mumbai. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
